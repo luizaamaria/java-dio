@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/argumentos/argumentos.iml" filepath="$PROJECT_DIR$/argumentos/argumentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaproject/javaproject.iml" filepath="$PROJECT_DIR$/javaproject/javaproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadores-logicos/operadores-logicos.iml" filepath="$PROJECT_DIR$/operadores-logicos/operadores-logicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadores-relacionais/operadores-relacionais.iml" filepath="$PROJECT_DIR$/operadores-relacionais/operadores-relacionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-smarttv/sistema-smarttv.iml" filepath="$PROJECT_DIR$/sistema-smarttv/sistema-smarttv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trilha-java-dio.iml" filepath="$PROJECT_DIR$/.idea/trilha-java-dio.iml" />
+    </modules>
+  </component>
+</project>
