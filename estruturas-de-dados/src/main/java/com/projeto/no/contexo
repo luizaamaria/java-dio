@@ -1,0 +1,27 @@
+Generics
+
+Contexto:
+
+-Evitar casting excessivo
+-Evitar códigos redundantes
+-Encontrar erros em tempo de compilação
+-Introduzido desde o Java SE 5.0
+
+//
+Lista<String> minhaLista = new Lista<>();
+
+public class Lista<T> {
+    private T t;
+    .
+    .
+    .
+}
+//
+
+ Upper Bounded Wildcard
+
+- Regras de uma pilha:
+° LIFO (Last in firts out)
+° O ultimo elememento que entra é o primeiro a sair
+
+métodos: top, push, po e isEmpty
