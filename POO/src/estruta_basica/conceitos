@@ -1,0 +1,50 @@
+Classes ex:
+
+Bola
+Carro
+Viagem
+Computador
+Venda
+Comprador
+
+E seus atributos ex:
+
+Bola - diametro
+Carro - cor
+Viagem - distancia
+Computador - memória
+Venda - valor
+Comprador - nome
+
+Atributo: o que é próprio e peculiar a alguém ou a alguma coisa.
+Variavel: Sujeito a variações ou mudanças; que podem variar; inconstante, instável.
+
+E seus métodos ex:
+
+// Bola - diametro
+Carro - cor - ligar
+// Viagem - distancia
+Computador - memória - desligar
+Venda - valor - calcular total
+Comprador - nome - realizar troca
+
+2 métodos especias: Construtor e Destrutor.
+
+Sobrecarga:
+Mudar a assinatura de acodo com a necessidade
+-Assinatura: nome + parâmetros
+ou seja, você pode utilizar o mesmo nome do método com paramêtros diferentes
+
+getter e setter
+setter serve para setar um valor em um atributo
+
+getter ele devolve alguma coisa
+
+Objetos : é a representação de um conceito, são instancias de classes.
+Classes são estáticas;
+ex: Carro carro = new Carro();
+
+Mensagem: é o processo de ativação de um método de um objeto (chamada do método)
+carro.<metodo>; (objeto)
+
+Carro.<metodo>; (classe)
